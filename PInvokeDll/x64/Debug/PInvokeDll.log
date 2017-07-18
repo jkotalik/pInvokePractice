@@ -1,0 +1,6 @@
+﻿  pinvoke.c
+c:\users\jukotali\source\repos\pinvokepractice\pinvokedll\pinvoke.h(2): warning C4005: 'PINVOKE_EXPORTS': macro redefinition
+  c:\users\jukotali\source\repos\pinvokepractice\pinvokedll\pinvoke.h(2): note: command-line arguments:  see previous definition of 'PINVOKE_EXPORTS'
+     Creating library C:\Users\jukotali\source\repos\PInvokePractice\x64\Debug\PInvokeDll.lib and object C:\Users\jukotali\source\repos\PInvokePractice\x64\Debug\PInvokeDll.exp
+  PInvokeDll.vcxproj -> C:\Users\jukotali\source\repos\PInvokePractice\x64\Debug\PInvokeDll.dll
+  PInvokeDll.vcxproj -> C:\Users\jukotali\source\repos\PInvokePractice\x64\Debug\PInvokeDll.pdb (Partial PDB)

@@ -1,0 +1,11 @@
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\bin\Debug\netcoreapp2.0\PInvokePractice.deps.json
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\bin\Debug\netcoreapp2.0\PInvokePractice.runtimeconfig.json
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\bin\Debug\netcoreapp2.0\PInvokePractice.runtimeconfig.dev.json
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\bin\Debug\netcoreapp2.0\PInvokePractice.dll
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\bin\Debug\netcoreapp2.0\PInvokePractice.pdb
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\obj\Debug\netcoreapp2.0\PInvokePractice.csprojResolveAssemblyReference.cache
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\obj\Debug\netcoreapp2.0\PInvokePractice.csproj.CoreCompileInputs.cache
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\obj\Debug\netcoreapp2.0\PInvokePractice.AssemblyInfoInputs.cache
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\obj\Debug\netcoreapp2.0\PInvokePractice.AssemblyInfo.cs
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\obj\Debug\netcoreapp2.0\PInvokePractice.dll
+c:\users\jukotali\source\repos\PInvokePractice\PInvokePractice\obj\Debug\netcoreapp2.0\PInvokePractice.pdb
